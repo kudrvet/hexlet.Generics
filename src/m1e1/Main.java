@@ -16,13 +16,7 @@ public class Main <T extends Human> {
         }
         return null;
     }
-
-    class Woman extends Human {
-
-        public Woman(String name, Sex sex) {
-            super(name, sex);
-        }
-    }
 }
+
 
 
